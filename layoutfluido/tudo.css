@@ -1,0 +1,52 @@
+
+#tudo {
+    width: 70%;
+    text-align: center;
+}
+header{
+    width: 45%;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+    margin: 10px;
+}
+nav{
+    width: 45%;
+    height: 200px;
+    background-color: crimson;
+    float: left;
+    margin: 10px;
+}
+main{
+    width: 90%;
+    height: 500px;
+    background-color: cadetblue;
+    clear: both;
+    margin: 10px;
+}
+section{
+    width: 30%;
+    height: 500px;
+}
+footer{
+    width: 90%;
+    height: 200px;
+    background-color: gold;
+    text-align: center;
+    margin: 10px;
+}
+#a{
+    background-color: rgb(10, 39, 14);
+    margin: 10px;
+    float: left;
+}
+#b{
+    background-color: rgb(71, 79, 146);
+    margin: 10px;
+    float: left;
+}
+#c{
+    background-color: rgb(238, 85, 25);
+    margin: 10px;
+    float: left;
+}
