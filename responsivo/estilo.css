@@ -1,0 +1,36 @@
+#teste {
+    width: 90%;
+    height: 700px;
+    background-color: rgb(236, 126, 148);
+    margin: 0 auto;
+}
+@media (max-width :400px){
+    #teste {
+        background-color: rgb(10, 78, 78);
+    }
+    h1{
+        font-size: 12px;
+    }
+}
+@media (max-width: 401px) and (min-width: 680) {
+    #teste {
+        background-color: rgb(124, 231, 231);
+    }
+    h1{
+        font-size: 12px;
+    }
+@media (max-width: 681px) and (min-width: 840) {
+    #teste {
+         background-color: rgb(162, 29, 167);
+    }
+    h1{
+        font-size: 12px;
+}
+@media (max-width: 841px) and (min-width: 1020) {
+     #teste {
+        background-color: rgb(197, 204, 103);
+        }
+        h1{
+            font-size: 12px;
+    }
+}
